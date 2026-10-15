@@ -1,0 +1,534 @@
+# CAMPUS SAATHI — INTEGRAL UNIVERSITY KNOWLEDGE BASE
+
+University: Integral University, Lucknow, Uttar Pradesh, India
+
+Purpose: Help students find official information about fees, admissions, scholarships, fee payments, academic calendars, examination rules, and university contacts.
+
+## IMPORTANT INSTRUCTIONS FOR THE AI CHATBOT
+
+1. Answer using the information retrieved from this knowledge base and its official sources.
+2. Whenever possible, include the source page URL and the relevant document page number if the source is a PDF.
+3. Do not invent fee amounts, examination dates, eligibility criteria, deadlines, or university policies.
+4. Fees and policies can change. Tell students to verify current details on the official university website.
+5. If information is missing, answer: "I could not verify this information from the available official sources. Please check the Integral University website or contact the university office."
+6. Clearly distinguish annual fees from total course fees.
+7. Never guarantee that a student qualifies for a scholarship without checking the current terms and conditions.
+8. Do not expose private student records or ask students to share passwords, OTPs, or payment credentials.
+9. For bank transfers, direct students to the official fee-payment page to verify account details before paying.
+10. Do not invent PDF page numbers for information taken from webpages.
+
+---
+
+# SECTION 1: UNIVERSITY OVERVIEW
+
+Integral University is located in Lucknow, Uttar Pradesh, India.
+
+Official website:
+https://www.iul.ac.in/
+
+Official admissions portal:
+https://admission.iul.ac.in/
+
+Official admission information:
+https://www.iul.ac.in/AdmissionInfo/index.aspx
+
+Official source for university overview:
+https://www.iul.ac.in/Admissioninfo/IndexInd.aspx
+
+Sample student questions:
+- Where is Integral University located?
+- What is the official website of Integral University?
+- Where can I find admission information?
+- Where can I apply for admission?
+- Where can I verify university policies?
+
+Answer rule:
+Use the official links above. Do not invent campus office timings or specific facilities if they are not available in the retrieved source.
+
+---
+
+# SECTION 2: COURSE FEES
+
+Official source:
+https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+The official fee page lists program-wise fees and course durations. The fee amount shown is generally labelled "Fee (p.a.)", meaning fee per annum.
+
+Selected program information listed on the official fee page:
+
+1. Bachelor of Technology — Computer Science and Engineering (B.Tech CSE)
+   Listed annual fee: ₹1,60,000
+   Duration: 4 years
+
+2. B.Tech CSE — Artificial Intelligence and Machine Learning, in association with HCLTech
+   Listed annual fee: ₹1,75,000
+   Duration: 4 years
+
+3. B.Tech CSE — Cyber Security and Artificial Intelligence, in collaboration with HCLTech
+   Listed annual fee: ₹1,75,000
+   Duration: 4 years
+
+4. B.Tech CSE — Cloud Computing and Artificial Intelligence, in association with IBM
+   Listed annual fee: ₹1,75,000
+   Duration: 4 years
+
+5. B.Tech CSE — Data Science and Artificial Intelligence, in association with IBM
+   Listed annual fee: ₹1,75,000
+   Duration: 4 years
+
+6. Bachelor of Computer Applications (BCA)
+   Listed annual fee: ₹85,000
+   Duration: 3 years
+
+7. Master of Technology — Computer Science and Engineering (M.Tech CSE)
+   Listed annual fee: ₹85,000
+   Duration: 2 years
+
+8. Master of Business Administration (MBA)
+   Listed annual fee: ₹1,50,000
+   Duration: 2 years
+
+IMPORTANT FEE DISCLAIMER:
+These are selected fee entries from the university fee information. The university may revise its fee structure. The figures above must be checked against the current program entry before being presented as current confirmed fees. They are not necessarily the complete cost of a course. Other charges may apply.
+
+Frequently asked questions:
+
+Q: What is the annual fee for B.Tech CSE?
+A: The compiled fee information lists ₹1,60,000 per year for B.Tech CSE. Please verify the current fee on the official university fee page.
+Source: https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+Q: What is the fee for BCA?
+A: The compiled fee information lists ₹85,000 per year for BCA. Please verify the current fee on the official university fee page.
+Source: https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+Q: What is the annual fee for MBA?
+A: The compiled fee information lists ₹1,50,000 per year for MBA. Verify the current program entry on the official fee page.
+Source: https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+Q: Is the annual fee the total fee for the entire course?
+A: No. An annual fee is the fee per year, not necessarily the total cost of the complete course. Check the official fee page for the applicable program and additional charges.
+Source: https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+Q: Where can I check the fee for another course?
+A: Open the official program-wise fee page and find your exact program.
+Source: https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+Q: Has the university changed its fees for the current session?
+A: I cannot confirm a fee revision without checking the current official program entry. Please verify the latest fee on the university website.
+
+---
+
+# SECTION 3: FEE PAYMENT METHODS
+
+Official source:
+https://www.iul.ac.in/admissioninfo/Fee_Payment_Options.aspx
+
+The university fee-payment page lists these payment methods:
+
+1. NEFT, RTGS, or IMPS bank transfer.
+2. Demand Draft or Pay Order.
+3. Debit Card or Credit Card.
+
+The university states that students must pay the required amount by the applicable fee-liability deadline.
+
+For Demand Draft or Pay Order, the official page instructs students to make it payable to "Treasurer, Integral University". Students should follow the university's current instructions regarding identification details.
+
+IMPORTANT:
+Payment methods and instructions can change. Students must check the official payment page before making a payment. Never rely on an unverified bank account number or payment link.
+
+Frequently asked questions:
+
+Q: Which payment methods are available?
+A: The official fee-payment page lists NEFT/RTGS/IMPS, Demand Draft/Pay Order, and debit or credit card.
+Source: https://www.iul.ac.in/admissioninfo/Fee_Payment_Options.aspx
+
+Q: Can I pay my university fee online?
+A: The university lists electronic bank transfers and card payments. Follow the current official instructions for the applicable payment method.
+Source: https://www.iul.ac.in/admissioninfo/Fee_Payment_Options.aspx
+
+Q: Where can I find the university's bank details?
+A: Open the official fee-payment page and verify the account details directly before transferring money.
+Source: https://www.iul.ac.in/admissioninfo/Fee_Payment_Options.aspx
+
+Q: What is the last date to pay my fee?
+A: The exact deadline depends on the applicable fee-liability schedule. I cannot confirm your deadline from this general information. Check the official notice or contact the university.
+
+Q: What should I do if my payment fails?
+A: Keep your transaction reference and payment receipt. Contact the university through its official contact details to verify the transaction. Do not share your OTP, password, or full payment credentials with the chatbot.
+
+---
+
+# SECTION 4: SCHOLARSHIPS AND FINANCIAL AID
+
+Official source:
+https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+The university scholarship page lists the following schemes and conditions:
+
+1. Merit-Based Scholarship
+   - At least 90% marks: 100% tuition-fee waiver.
+   - At least 85% marks: 50% tuition-fee waiver.
+   - At least 80% marks: 25% tuition-fee waiver.
+
+2. Sibling Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for a sibling of an enrolled student.
+
+3. Alumni / Alumni Sibling Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for eligible alumni or an alumnus's sibling, as described on the official page.
+
+4. Staff Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for an eligible child or spouse of a university employee.
+
+5. Jammu and Kashmir Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for eligible applicants from Jammu and Kashmir.
+
+6. North Eastern Region Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for eligible applicants from India's North Eastern Region.
+
+7. Progression Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for eligible students taking admission in a consecutive session in Bachelor's, Master's, or Ph.D. programs.
+
+8. Specially Abled Scholarship
+   - The listed scheme provides a 50% tuition-fee waiver for eligible applicants with at least 40% disability certified by a competent medical authority.
+
+9. Adopted Village Scholarship
+   - The listed scheme provides a 25% tuition-fee waiver for eligible applicants from villages adopted by Integral University. The page states that it is applicable to girls only.
+
+10. Orphan Scholarship
+    - The listed scheme provides a 50% tuition-fee waiver for eligible applicants whose both parents are no longer alive.
+
+11. Sports Scholarship
+    - The listed scheme provides a 25% tuition-fee waiver for eligible applicants who have Uttar Pradesh domicile and the specified recognition from the Ministry of Youth Affairs and Sports, Government of India.
+
+12. Means-Based Scholarship
+    - Financial assistance is listed for deserving students from financially underprivileged backgrounds.
+
+13. Integral Research Fellowship (IRF)
+    - The official page lists ₹6,000 per month for candidates securing first rank in the Ph.D. entrance test in each discipline.
+
+IMPORTANT SCHOLARSHIP RULE:
+The university states that terms and conditions apply. This knowledge base does not establish that any individual student is eligible. Current eligibility, application deadlines, required documents, and approval must be confirmed through the official university source.
+
+Frequently asked questions:
+
+Q: What merit scholarship is listed for students with at least 90% marks?
+A: The university's scholarship page lists a 100% tuition-fee waiver for at least 90% marks, subject to terms and conditions.
+Source: https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+Q: Is there a scholarship for 85% marks?
+A: The listed merit scheme provides a 50% tuition-fee waiver for at least 85% marks, subject to terms and conditions.
+Source: https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+Q: Is there a scholarship for 80% marks?
+A: The listed merit scheme provides a 25% tuition-fee waiver for at least 80% marks, subject to terms and conditions.
+Source: https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+Q: Is a sibling scholarship available?
+A: The university lists a 25% tuition-fee waiver for a sibling of an enrolled student, subject to terms and conditions.
+Source: https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+Q: Is there financial aid for students from low-income backgrounds?
+A: The university lists a Means-Based Scholarship for deserving students from financially underprivileged backgrounds. Check the official scheme for eligibility and application requirements.
+Source: https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+Q: Will I definitely receive a scholarship if I meet a listed percentage?
+A: I cannot guarantee approval. Eligibility, documentation, and current terms must be confirmed by the university.
+Source: https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+---
+
+# SECTION 5: ADMISSION PROCESS
+
+Official admission policy:
+https://www.iul.ac.in/AdmissionInfo/AdmissionPolicy.aspx
+
+Official admission criteria:
+https://www.iul.ac.in/admissioninfo/Admission_Criteria.aspx
+
+Official admissions portal:
+https://admission.iul.ac.in/
+
+The university provides online and paper-based application routes.
+
+Online application:
+- Applicants can apply through the official admissions portal.
+- Applicants must complete the online form and pay the prescribed application fee within the applicable deadline.
+- Applicants must upload the certificates and testimonials requested by the application form.
+
+Paper-based application:
+- The admission policy describes obtaining an application form from the campus and submitting it to the Directorate of Admissions and Academics with the required information and documents.
+
+Entrance examinations:
+- The official admission-criteria page describes IUET-2026 as the entrance test for university programs, with stated exceptions.
+- B.Arch has specific entrance/eligibility requirements.
+- MBBS, MD, and MS admissions are described as being handled through government counselling based on NEET/PG NEET, as applicable.
+
+Admission requirements vary by program. Students must check the eligibility criteria for their exact course and admission session.
+
+Frequently asked questions:
+
+Q: Where can I apply for admission?
+A: Use the official admissions portal: https://admission.iul.ac.in/
+
+Q: How can I check admission eligibility?
+A: Open the official admission-criteria page and select the relevant program.
+Source: https://www.iul.ac.in/admissioninfo/Admission_Criteria.aspx
+
+Q: Does every program require the same entrance test?
+A: No. The official criteria describe exceptions and program-specific requirements. Verify the exact course requirements on the official page.
+Source: https://www.iul.ac.in/admissioninfo/Admission_Criteria.aspx
+
+Q: What documents do I need for admission?
+A: Required documents depend on the course and application. Follow the official application form and its document checklist.
+Source: https://admission.iul.ac.in/
+
+Q: Can I apply after the deadline?
+A: I cannot confirm that late applications will be accepted. Check the current official notice or contact the admissions office.
+
+Q: Can I take admission in two regular courses simultaneously?
+A: The university's admission criteria state that a candidate is not allowed to take admission simultaneously in two regular courses. Verify the latest applicable policy on the official page.
+Source: https://www.iul.ac.in/admissioninfo/Admission_Criteria.aspx
+
+---
+
+# SECTION 6: APPLICATION FEE AND CAUTION MONEY
+
+Official source:
+https://www.iul.ac.in/AdmissionInfo/AdmissionPolicy.aspx
+
+The admission policy page lists an application form/prospectus fee of ₹1,000 for Indian applicants and USD 100 for foreign applicants. These amounts must be verified for the current admission session before being quoted as current.
+
+The university policy also describes caution-money refund conditions. It states that caution money is refundable after course completion and withdrawal after clearing all dues, subject to the university's procedure.
+
+Students should contact the university to confirm their individual refund status, documents, and process.
+
+Frequently asked questions:
+
+Q: What is the application form fee?
+A: The admission policy page lists ₹1,000 for Indian applicants and USD 100 for foreign applicants. Verify the amount for the current session on the official page.
+Source: https://www.iul.ac.in/AdmissionInfo/AdmissionPolicy.aspx
+
+Q: When is caution money refunded?
+A: The policy describes refund after course completion and clearing all dues, subject to the university's procedure. Contact the university to confirm the process for your case.
+Source: https://www.iul.ac.in/AdmissionInfo/AdmissionPolicy.aspx
+
+Q: How do I check my caution-money refund?
+A: Contact the relevant university office using official contact details. Do not share bank passwords, OTPs, or other credentials with the chatbot.
+
+---
+
+# SECTION 7: ACADEMIC CALENDAR
+
+Official academic calendar page:
+https://www.iul.ac.in/Academic_Calendar.aspx
+
+The university publishes academic calendars for academic activities and schedules. Separate calendars may apply to different years or groups of programs.
+
+Official calendar PDFs previously identified:
+- First Year, 2026–27:
+  https://www.iul.ac.in/pdf/Academic_Calendar_Odd_2026_27_First_Year.pdf
+- Second Year Onwards, 2026–27:
+  https://www.iul.ac.in/pdf/Academic_Calendar_Odd_2026_27_Second_Year.pdf
+
+The exact dates for classes, examinations, holidays, and other activities must be retrieved from the relevant calendar before answering.
+
+Frequently asked questions:
+
+Q: Where can I find the academic calendar?
+A: Use the official academic calendar page: https://www.iul.ac.in/Academic_Calendar.aspx
+
+Q: When will my semester examination begin?
+A: I need the relevant academic calendar or official examination notice to verify the date. Please check the official source.
+
+Q: Are the dates the same for every year?
+A: Not necessarily. Use the calendar applicable to your year and program.
+
+---
+
+# SECTION 8: EXAMINATION RULES
+
+Official Examination Manual PDF:
+https://www.iul.ac.in/DWC/EXAMINATION/PDF/20260520111009986Examination%20Manual-revised.pdf
+
+Official Unfair Means guidelines PDF:
+https://www.iul.ac.in/DWC/EXAMINATION/PDF/20250919114526895Manual%20for%20UFM%20cases.pdf
+
+Use the Examination Manual for examination procedures and rules. Use the Unfair Means guidelines for rules relating to examination misconduct.
+
+The chatbot must retrieve the relevant text from the actual PDF before answering specific questions about:
+- Examination procedures.
+- Admit-card requirements.
+- Examination misconduct.
+- Scrutiny or related procedures.
+- Results and examination rules.
+- Penalties and disciplinary action.
+
+Do not guess a penalty, date, eligibility rule, or examination procedure.
+
+Frequently asked questions:
+
+Q: Where can I find examination rules?
+A: Refer to the official Examination Manual PDF.
+
+Q: Where can I find rules about unfair means during exams?
+A: Refer to the official Unfair Means guidelines PDF.
+
+Q: When will my result be announced?
+A: I cannot confirm the announcement date without an official notice. Check the university's current examination notices.
+
+Q: What is the penalty for a particular exam violation?
+A: The applicable rule must be checked in the official Unfair Means guidelines. I should not guess the penalty.
+
+---
+
+# SECTION 9: OFFICIAL ADMISSIONS CONTACT DETAILS
+
+Official source:
+https://www.iul.ac.in/admissioninfo/Contact.aspx
+
+The official admissions contact page lists:
+
+Directorate of Admissions and Academics
+
+Phone:
++91 9335177775
++91 6390011283
++91 6390011284
++91 6390011285
+
+Email:
+admission@iul.ac.in
+directoradmacad@iul.ac.in
+
+Contact details may change. Verify them on the official university contact page before use.
+
+Frequently asked questions:
+
+Q: Whom should I contact for admission queries?
+A: The university's admissions contact page lists the admissions phone numbers and email addresses above. Verify current details on the official page.
+Source: https://www.iul.ac.in/admissioninfo/Contact.aspx
+
+Q: Whom should I contact for fee issues?
+A: Use the official university contact page to identify the appropriate office and current contact details.
+Source: https://www.iul.ac.in/admissioninfo/Contact.aspx
+
+Q: Can the chatbot check my private admission application?
+A: Not from this general knowledge base. Contact the university through its official channel for account-specific or private application information.
+
+---
+
+# SECTION 10: STUDENT QUESTION CATEGORIES
+
+Campus Saathi should support questions in these categories when the corresponding official source has been added and indexed.
+
+FEES:
+- What is the annual fee for B.Tech CSE?
+- What is the annual fee for BCA?
+- What is the fee for MBA?
+- What is the fee for my specific program?
+- Is the listed amount annual or for the complete course?
+- Where can I check the latest fee structure?
+- Which payment methods are listed by the university?
+- Where can I verify the official bank details?
+- How can I contact the university about a failed payment?
+
+SCHOLARSHIPS:
+- What merit scholarship is listed for 90% marks?
+- What scholarship is listed for 85% marks?
+- Is a sibling scholarship available?
+- Is there a scholarship for financially underprivileged students?
+- What are the listed scholarship conditions?
+- How can I confirm my eligibility?
+- What documents are required for a scholarship?
+- What is the scholarship application deadline?
+
+ADMISSIONS:
+- Where can I apply for admission?
+- How do I check eligibility for my course?
+- Does my program require an entrance test?
+- What documents does the application form request?
+- What is the listed application fee?
+- Where can I find admission policies?
+- Whom should I contact for admission help?
+
+ACADEMICS:
+- Where can I find the academic calendar?
+- Which calendar applies to my academic year?
+- When will my semester examination begin?
+- Where can I find official academic notices?
+- Where can I find my department's syllabus?
+- Where can I find the evaluation scheme?
+
+EXAMINATIONS:
+- Where can I find examination rules?
+- Where can I find the Examination Manual?
+- Where can I find unfair-means guidelines?
+- What is the official rule for a particular examination issue?
+- Where can I verify an examination date?
+- How can I find an official notice about results?
+
+CONTACT:
+- What is the official admissions email?
+- What are the admissions helpline numbers?
+- Where can I find the official university contact page?
+
+---
+
+# SECTION 11: REQUIRED ANSWER FORMAT
+
+When the chatbot finds supporting evidence, use this structure:
+
+Answer:
+[Direct answer based on the retrieved official source.]
+
+Source:
+[Official document or webpage title]
+
+Source URL:
+[Exact official URL]
+
+Page:
+[Actual PDF page number, if applicable. For webpages, write "Webpage; no PDF page number."]
+
+Verification note:
+[Include when the information may change or needs confirmation.]
+
+If evidence is missing, use this response:
+
+"I could not verify this information from the official sources currently available to Campus Saathi. Please check the Integral University website or contact the relevant university office."
+
+---
+
+# SECTION 12: OFFICIAL SOURCE INDEX
+
+1. Course fees:
+https://www.iul.ac.in/Admissioninfo/FeeInd.aspx
+
+2. Fee payment options:
+https://www.iul.ac.in/admissioninfo/Fee_Payment_Options.aspx
+
+3. Scholarships:
+https://www.iul.ac.in/admissioninfo/Integral_University_Scholarships_Schemes.aspx
+
+4. Admission policy:
+https://www.iul.ac.in/AdmissionInfo/AdmissionPolicy.aspx
+
+5. Admission criteria:
+https://www.iul.ac.in/admissioninfo/Admission_Criteria.aspx
+
+6. Admissions portal:
+https://admission.iul.ac.in/
+
+7. Admissions contact:
+https://www.iul.ac.in/admissioninfo/Contact.aspx
+
+8. Academic calendar:
+https://www.iul.ac.in/Academic_Calendar.aspx
+
+9. Examination Manual:
+https://www.iul.ac.in/DWC/EXAMINATION/PDF/20260520111009986Examination%20Manual-revised.pdf
+
+10. Unfair Means guidelines:
+https://www.iul.ac.in/DWC/EXAMINATION/PDF/20250919114526895Manual%20for%20UFM%20cases.pdf
+
+END OF KNOWLEDGE BASE
